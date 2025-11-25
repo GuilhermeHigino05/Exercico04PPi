@@ -1,0 +1,27 @@
+{
+  "name": "exercico04ppi",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuilhermeHigino05/Exercico04PPi.git"
+  },
+  "keywords": [],
+  "author": "Guilherme Higino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuilhermeHigino05/Exercico04PPi/issues"
+  },
+  "homepage": "https://github.com/GuilhermeHigino05/Exercico04PPi#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^5.1.0",
+    "express-session": "^1.18.2"
+  }
+}
